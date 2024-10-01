@@ -1,0 +1,13 @@
+---
+title: Hoteli
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Wdrożenie kompleksowej automatyzacji w branży hotelarskiej to klucz do maksymalnego komfortu gości i optymalizacji kosztów. Nasza firma oferuje integrację systemów zarządzania infrastrukturą budowlaną (BMS) z systemami rezerwacji, co zapewnia efektywne zarządzanie ogrzewaniem, wentylacją i oświetleniem. Dzięki naszemu doświadczeniu w sprzedaży systemów BMS tworzymy rozwiązania, które obniżają koszty eksploatacji i podnoszą poziom obsługi, zapewniając bezbłędny pobyt dla Twoich gości.
+---

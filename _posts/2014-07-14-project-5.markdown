@@ -1,0 +1,14 @@
+---
+title: Сentrum Handlowe
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: startup-framework.png
+thumbnail: startup-framework-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Wdrożenie kompleksowej automatyzacji w centrach handlowych to klucz do obniżenia kosztów obsługi systemów inżynieryjnych i optymalizacji wydatków eksploatacyjnych. Nasza firma oferuje integrację systemów zarządzania infrastrukturą budowlaną (BMS), co pozwala znacznie obniżyć wydatki na energię i zwiększyć komfort dla odwiedzających. Premiowe marki wynajmują pomieszczenia w budynkach z wysokimi ocenami efektywności i certyfikatami, takimi jak BREEAM, LEED, WELL i DGNB. Nasze doświadczenie w realizacji systemów BMS pomoże Państwu maksymalnie wykorzystać wartość budynku i zwiększyć jego atrakcyjność na rynku.
+
+---

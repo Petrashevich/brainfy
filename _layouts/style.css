@@ -1,0 +1,11 @@
+{% include css/bootstrap.min.css %}
+{% include css/agency.css %}
+{{ content }}
+
+@font-face {
+    font-family: 'arciform'; /* Имя шрифта, которое будете использовать */
+    src: url('{{ "/fonts/arciform.otf" | prepend: site.baseurl }}') format('woff'); /* Укажите все форматы, если они есть */
+    font-weight: bold;
+    font-style: normal;
+}
+

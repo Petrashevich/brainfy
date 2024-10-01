@@ -1,0 +1,11 @@
+---
+title: Magazyny
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+description: System zarządzania BMS pozwala właścicielom magazynów i kompleksów logistycznych centralnie monitorować wszystkie obiekty za pomocą jednego programu. Obejmuje to zarządzanie oświetleniem, klimatem, zużyciem energii i bezpieczeństwem w czasie rzeczywistym. Takie podejście obniża koszty operacyjne, poprawia kontrolę nad sprzętem i zwiększa ogólną efektywność obiektów, zapewniając elastyczność i przejrzystość zarządzania procesami logistycznymi.
+
+---

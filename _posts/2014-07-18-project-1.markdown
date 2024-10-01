@@ -1,0 +1,12 @@
+---
+title: Biura
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: dreams1.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+description:  System BMS zwiększa wartość i atrakcyjność obiektu dla najemców dzięki automatyzacji zarządzania oświetleniem, klimatem i bezpieczeństwem. Obniża koszty eksploatacyjne nawet o 30% i tworzy warunki premium, co sprzyja przyciąganiu i utrzymaniu prestiżowych firm.  
+
+---
+

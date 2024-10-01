@@ -1,0 +1,13 @@
+---
+title: Centrum Medyczne
+modal-id: 4
+date: 2014-07-15
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Wdrożenie kompleksowej automatyzacji w centrach medycznych i szpitalach to klucz do zapewnienia maksymalnego komfortu pacjentów oraz optymalizacji kosztów. Nasza firma oferuje integrację systemów zarządzania infrastrukturą budowlaną (BMS) z systemami powiadomień dotyczących stanu pacjentów. Oferujemy również systemy sygnalizacji pacjenta, które efektywnie integrują się w ogólną sieć, co pozwala na optymalizację czasu reakcji i powiadomień. Dzięki naszemu doświadczeniu w realizacji systemów BMS możecie być Państwo pewni jakości i niezawodności oferowanych rozwiązań.
+
+---

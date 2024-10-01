@@ -1,0 +1,14 @@
+---
+title: Data Center
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Systemy automatyzacji BMS w centrach danych zapewniają wysoką niezawodność dzięki ciągłemu monitorowaniu i zarządzaniu kluczowymi systemami inżynieryjnymi chłodzeniem, zasilaniem i bezpieczeństwem. Zmniejsza to ryzyko przestojów, minimalizuje koszty związane z awaryjną konserwacją oraz optymalizuje zużycie energii, co znacząco obniża koszty operacyjne i zwiększa niezawodność działania centrum danych.Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
