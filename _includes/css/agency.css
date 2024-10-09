@@ -682,10 +682,12 @@ section#kontakt .form-group textarea {
 
 section#kontakt .form-group input.form-control {
     height: auto;
+    color: black;
 }
 
 section#kontakt .form-group textarea.form-control {
     height: 236px;
+    color: black;
 }
 
 section#kontakt .form-control:focus {
