@@ -10,6 +10,6 @@ description:  System BMS zwiększa wartość i atrakcyjność obiektu dla najemc
 
 ---
 
-System zarządzania BMS pozwala właścicielom magazynów i kompleksów logistycznych centralnie monitorować wszystkie obiekty za pomocą jednego programu. Obejmuje to zarządzanie oświetleniem, klimatem, zużyciem energii i bezpieczeństwem w czasie rzeczywistym. Takie podejście obniża koszty operacyjne, poprawia kontrolę nad sprzętem i zwiększa ogólną efektywność obiektów, zapewniając elastyczność i przejrzystość zarządzania procesami logistycznymi.
+System BMS zwiększa wartość i atrakcyjność obiektu dla najemców dzięki automatyzacji zarządzania oświetleniem, klimatem i bezpieczeństwem. Obniża koszty eksploatacyjne nawet o 30% i tworzy warunki premium, co sprzyja przyciąganiu i utrzymaniu prestiżowych firm.
 
 ![biura1](/img/portfolio/pic/floorplanp9.png "biura1"){: .responsive-img}
