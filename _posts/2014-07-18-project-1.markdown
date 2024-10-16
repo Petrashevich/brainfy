@@ -10,28 +10,27 @@ description:  System BMS zwiększa wartość i atrakcyjność obiektu dla najemc
 
 ---
 
-# Wprowadzenie:
+#### Wprowadzenie:
 System zarządzania budynkiem (BMS, Building Management System) jest kluczowym elementem zapewniającym efektywne i bezpieczne zarządzanie nowoczesnymi centrami biznesowymi. W przypadku przestrzeni biurowych BMS odgrywa kluczową rolę, zapewniając komfortowe środowisko pracy dla pracowników, redukując koszty eksploatacyjne oraz zwiększając efektywność energetyczną. Zintegrowane zarządzanie systemami, takimi jak oświetlenie, dystrybucja energii elektrycznej, ogrzewanie, wentylacja i klimatyzacja (HVAC), a także dostawa wody, umożliwia centralną kontrolę wszystkich procesów i szybkie reagowanie na zmiany w eksploatacji budynku.
-# Opis zarządzania systemami:
-# Oświetlenie:
+#### Oświetlenie:
 Zarządzanie oświetleniem w przestrzeniach biurowych za pomocą BMS pozwala na automatyczne regulowanie poziomów oświetlenia w zależności od pory dnia, obecności ludzi oraz naturalnego światła. System może odczytywać dane o zewnętrznym oświetleniu i odpowiednio dostosowywać warunki świetlne wewnątrz, co nie tylko zapewnia maksymalny komfort dla pracowników biurowych, ale również pomaga znacząco ograniczyć zużycie energii elektrycznej. Dzięki wykorzystaniu naturalnego światła w ciągu dnia można osiągnąć znaczne oszczędności, utrzymując optymalny poziom oświetlenia tylko tam, gdzie jest to naprawdę potrzebne. W systemie mogą być ustawione różne scenariusze oświetlenia, takie jak tryb pracy, tryb wieczorny czy tryb oszczędzania energii, a także możliwe jest zdalne sterowanie oświetleniem przez interfejsy BMS.
 
 ![biura1](/img/portfolio/pic/floorplanp light.png "Oświetlenie"){: .responsive-img}
-# Dystrybucja energii elektrycznej:
+#### Dystrybucja energii elektrycznej:
 System zarządzania dystrybucją energii elektrycznej zapewnia kontrolę nad zużyciem energii, rozdzielając obciążenie na różne strefy budynku, w tym przestrzenie biurowe. Pomaga to uniknąć przeciążeń, zmniejszyć straty energii i zwiększyć ogólną niezawodność zasilania. Poprzez BMS można monitorować stan urządzeń, automatyzować procesy przełączania między źródłami zasilania i szybko reagować na sytuacje awaryjne.
 
 ![biura1](/img/portfolio/pic/Zasilanie.png "Zasilanie"){: .responsive-img}
-# HVAC (Wentylacja i klimatyzacja):
+#### HVAC (Wentylacja i klimatyzacja):
 Zarządzanie systemami HVAC za pomocą BMS umożliwia utrzymanie optymalnych parametrów mikroklimatu w biurach przy minimalnym zużyciu energii. System monitoruje temperaturę, wilgotność, poziom CO2 oraz inne parametry powietrza, zapewniając komfortowe warunki pracy. BMS może automatycznie regulować działanie systemów grzewczych i klimatyzacyjnych w zależności od pory dnia i liczby osób w pomieszczeniach.
 
 ![biura1](/img/portfolio/pic/HVAC.png "HVAC"){: .responsive-img}
 ![biura1](/img/portfolio/pic/Harmonogram.png "HVAC"){: .responsive-img}
-# Ogrzewanie:
+#### Ogrzewanie:
 Zaopatrzenie w wodę, w tym dostarczanie ciepłej i zimnej wody oraz systemy kanalizacyjne, może być również zarządzane przez BMS. Umożliwia to kontrolę zużycia wody, wykrywanie wycieków i terminowe przeprowadzanie konserwacji technicznej. W przestrzeniach biurowych jest to szczególnie ważne z punktu widzenia optymalizacji zużycia wody oraz zwiększenia trwałości i efektywności budynku.
 
 ![biura1](/img/portfolio/pic/Ciepła Woda Użytkowa.png "Ogrzewanie"){: .responsive-img}
 ![biura1](/img/portfolio/pic/Wykres temperatury.png "Ogrzewanie"){: .responsive-img}
-# Raporty systemowe:
+#### Raporty systemowe:
 BMS umożliwia generowanie szczegółowych raportów na temat pracy wszystkich systemów technicznych, takich jak zużycie energii, stan urządzeń oraz parametry mikroklimatu w biurach. Raporty te pomagają zarządcom budynków analizować efektywność systemów, identyfikować możliwości poprawy efektywności energetycznej oraz przewidywać przyszłe potrzeby budynku.
 
 ![biura1](/img/portfolio/pic/alarm.png "Raporty"){: .responsive-img}
