@@ -16,6 +16,9 @@ System zarządzania budynkiem (BMS, Building Management System) jest kluczowym e
 Zarządzanie oświetleniem w przestrzeniach biurowych za pomocą BMS pozwala na automatyczne regulowanie poziomów oświetlenia w zależności od pory dnia, obecności ludzi oraz naturalnego światła. System może odczytywać dane o zewnętrznym oświetleniu i odpowiednio dostosowywać warunki świetlne wewnątrz, co nie tylko zapewnia maksymalny komfort dla pracowników biurowych, ale również pomaga znacząco ograniczyć zużycie energii elektrycznej. Dzięki wykorzystaniu naturalnego światła w ciągu dnia można osiągnąć znaczne oszczędności, utrzymując optymalny poziom oświetlenia tylko tam, gdzie jest to naprawdę potrzebne. W systemie mogą być ustawione różne scenariusze oświetlenia, takie jak tryb pracy, tryb wieczorny czy tryb oszczędzania energii, a także możliwe jest zdalne sterowanie oświetleniem przez interfejsy BMS.
 
 ![biura1](/img/portfolio/pic/floorplanp light.png "Oświetlenie"){: .responsive-img}
+Tworzenie interaktywnych paneli sterujących dla systemów oświetleniowych jest kluczowym aspektem optymalizacji pracy budynków. Panele te służą jako wizualny interfejs, umożliwiający użytkownikom łatwe zarządzanie oświetleniem w zależności od pory dnia, poziomu światła naturalnego oraz obecności osób. Interaktywne panele zapewniają monitorowanie oświetlenia w czasie rzeczywistym, umożliwiając śledzenie parametrów i dostosowywanie rozwiązań oświetleniowych do konkretnych zadań. Użytkownicy mogą regulować poziom oświetlenia, tworzyć wcześniej zaprogramowane scenariusze oraz zarządzać oświetleniem za pomocą aplikacji mobilnych, co sprawia, że zarządzanie staje się bardziej wygodne i efektywne. Prosta obsługa wizualnych interfejsów pozwala maksymalizować komfort użytkowania oraz poprawić efektywność energetyczną.
+
+![biura1](/img/portfolio/pic/floorplanp light1.png "Oświetlenie-1"){: .responsive-img}
 #### Dystrybucja energii elektrycznej:
 System zarządzania dystrybucją energii elektrycznej zapewnia kontrolę nad zużyciem energii, rozdzielając obciążenie na różne strefy budynku, w tym przestrzenie biurowe. Pomaga to uniknąć przeciążeń, zmniejszyć straty energii i zwiększyć ogólną niezawodność zasilania. Poprzez BMS można monitorować stan urządzeń, automatyzować procesy przełączania między źródłami zasilania i szybko reagować na sytuacje awaryjne.
 
@@ -23,7 +26,12 @@ System zarządzania dystrybucją energii elektrycznej zapewnia kontrolę nad zu�
 #### HVAC (Wentylacja i klimatyzacja):
 Zarządzanie systemami HVAC za pomocą BMS umożliwia utrzymanie optymalnych parametrów mikroklimatu w biurach przy minimalnym zużyciu energii. System monitoruje temperaturę, wilgotność, poziom CO2 oraz inne parametry powietrza, zapewniając komfortowe warunki pracy. BMS może automatycznie regulować działanie systemów grzewczych i klimatyzacyjnych w zależności od pory dnia i liczby osób w pomieszczeniach.
 
+![biura1](/img/portfolio/pic/HVAC1.png "HVAC"){: .responsive-img}
+
+Nowoczesne interfejsy zarządzania HVAC w systemach BMS są projektowane z uwzględnieniem wygody i zrozumiałości dla użytkowników. Oferują intuicyjną interakcję, umożliwiając łatwe poruszanie się po ustawieniach i funkcjach. Elementy wizualne, takie jak wykresy i wskaźniki, są logicznie zorganizowane, co ułatwia monitorowanie stanu klimatu.Nowoczesny design interfejsów jest atrakcyjny dzięki wysokiej jakości grafice i responsywnemu układowi, co sprawia, że zarządzanie jest przyjemne. Możliwość personalizacji wyświetlania danych pozwala użytkownikom skupić się na istotnych aspektach, poprawiając interakcję z systemem i tworząc komfortowe oraz produktywne środowisko.
+
 ![biura1](/img/portfolio/pic/HVAC.png "HVAC"){: .responsive-img}
+
 ![biura1](/img/portfolio/pic/Harmonogram.png "HVAC"){: .responsive-img}
 #### Ogrzewanie:
 Zaopatrzenie w wodę, w tym dostarczanie ciepłej i zimnej wody oraz systemy kanalizacyjne, może być również zarządzane przez BMS. Umożliwia to kontrolę zużycia wody, wykrywanie wycieków i terminowe przeprowadzanie konserwacji technicznej. W przestrzeniach biurowych jest to szczególnie ważne z punktu widzenia optymalizacji zużycia wody oraz zwiększenia trwałości i efektywności budynku.
